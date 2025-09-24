@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OpenSearch Dashboard Enhancements
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.01
 // @description  Enhance OpenSearch Dashboard functionality
 // @match        *://*.aws.dev/_dashboards*
 // @downloadURL  https://raw.githubusercontent.com/phengsamazon/opensearch-dashboard-enhancements/main/scripts/dashboard-enhancements.user.js
